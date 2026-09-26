@@ -32,3 +32,13 @@ print("lenguajes \n\tpython\n\tC\njavaScript")
 famous_person = "iancarlobeta"
 message = f"{famous_person} una vez dijo: python es amor"
 print(message)
+
+
+
+# METODO JOIN() EN LOS STRINGS 
+ """
+El método join() de los strings sirve para unir los elementos de un 
+iterable (lista, tupla, etc.) en un solo string, usando el string
+ sobre el que se llama como separador entre cada elemento.
+ 
+ """
